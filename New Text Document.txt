@@ -1,0 +1,8 @@
+in localhost create a database and named it urlshortner
+admin user email = admin@gmail.com && password = 123456
+
+
+************** Author ************
+ Athor name = Raihan Mistry
+ Email = info.raihanmistry@gmail.com
+ M no.= +91 75839 48750
